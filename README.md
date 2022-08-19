@@ -16,15 +16,11 @@ The following **required** functionality is completed:
 * [x] Button displayed on screen
 * [x] Toast with message appears when button is pressed 
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='SimpleTodoAnimation.gif' title='SimpleTodoAnimation' width='' alt='Video Walkthrough' />
+<img src='SimpleTodoAnimate.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
@@ -36,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Some challenges encountered when building the app is not importing the required libraries
-and not being able to login to GitHub. I ended up creating a token to login.
+and not being able to login to GitHub. I ended up creating a token to login. The building process is 
+very fun and I was exposed to lots of new platforms I did not know before.
 
 ## License
 
