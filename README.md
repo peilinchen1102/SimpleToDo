@@ -1,5 +1,5 @@
 # HelloWorld
-Simple Todo app for CodePath
+Simple Todo app
 # Android Prework - *Say Hello!*
 
 Submitted by: **Peilin Chen**
