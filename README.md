@@ -2,7 +2,7 @@
 Simple Todo app
 # Android Prework - *Say Hello!*
 
-Submitted by: **Peilin Chen**
+**Peilin Chen**
 
 **Say Hello** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
